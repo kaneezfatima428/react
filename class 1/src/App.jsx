@@ -1,12 +1,11 @@
 import React from 'react'
-import Card from './Card'
-import Navbar from './Navbar'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
     <>
     <Navbar/>
-     <Card/>
+   
       </>
   )
 }
